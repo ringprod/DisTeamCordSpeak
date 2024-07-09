@@ -1,10 +1,14 @@
 {
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
+    "@discordjs/rest": "^2.3.0",
+    "@discordjs/voice": "^0.17.0",
     "bufferutil": "^4.0.1",
-    "discord.js": "^12.1.1",
+    "discord-api-types": "^0.37.92",
+    "discord.js": "^14.15.3",
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.0.1",
+    "libsodium-wrappers": "^0.7.13",
     "utf-8-validate": "^5.0.2"
   },
   "name": "disteamcordspeak",
